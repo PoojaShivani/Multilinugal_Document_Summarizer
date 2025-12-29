@@ -1,0 +1,5 @@
+{
+  "name": "Multilingual Document Summarizer",
+  "description": "An expert assistant that simplifies complex documents into easy-to-understand summaries in multiple languages, designed for non-native speakers.",
+  "requestFramePermissions": []
+}
